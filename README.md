@@ -81,8 +81,8 @@ In today's fast-paced digital landscape, customers expect **quick**, **accurate*
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/kaymen99/langgraph-email-automation.git
-cd langgraph-email-automation
+git clone https://github.com/Avinash3570/Email-Automation
+cd Email-Automation
 ```
 ### **2. Create & Activate Virtual Environment
 ```bash
